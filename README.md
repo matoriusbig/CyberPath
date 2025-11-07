@@ -39,7 +39,7 @@ Soy **@matoriusbig**, estudiante de **Ingeniería Informática** con una profund
 
 ### Próximamente... 🔜
 
-### 📜 Certificaciones en la Mira
+### 📜 Certificaciones 
 
 | Certificación | Nivel | Estado | Carpeta |
 | :---: | :---: | :---: | :---: |
