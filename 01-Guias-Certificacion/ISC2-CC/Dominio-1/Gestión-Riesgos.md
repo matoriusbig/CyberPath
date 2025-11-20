@@ -35,6 +35,7 @@ Gestionar el riesgo es un ciclo continuo:
 ### Las 4 Formas de Tratar el Riesgo
 
 > Caso de Estudio: El Negocio de Nadar con Tiburones 🦈
+Una empresa dedicada a ofrecer a los turistas una experiencia de buzeo con tiburones. 
 > 
 > - **Aceptación (Accept):** Aceptar el riesgo y no hacer nada. Se usa cuando el costo de arreglarlo es mayor que el daño.
 >     - *Ejemplo:* La dueña *acepta* el riesgo inherente de que trabajar con tiburones salvajes es peligroso. Es parte del negocio.
