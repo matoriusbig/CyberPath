@@ -27,58 +27,6 @@ Inspirado por las grandes comunidades de aprendizaje, este proyecto se basa en t
 
 ---
 
-## 🗺️ Mapa del Repositorio: ¿Qué encontrarás aquí?
-
-Navega por las carpetas para encontrar el material de estudio.
-
-| Emoji | Carpeta | Descripción |
-| :--- | :--- | :--- |
-| `📁 00-Fundamentos` | **Los Pilares:** Todo lo que necesitas *antes* de especializarte. |
-| `▶️` | `Redes` | Guías de estudio desde cero (Basado en Cisco y CompTIA). |
-| `▶️` | `Linux` | Comandos, *bash scripting* y administración básica. |
-| `▶️` | `Programación` | Fundamentos de lógica, Python y Bash para *scripting*. |
-| `📁 01-Guias-Certificacion` | **Hojas de Ruta:** Guías de estudio detalladas y listas para usar. |
-| `▶️` | `ISC2-CC` | Guía completa para el *Certified in Cybersecurity* (¡Genial para empezar!). |
-| `▶️` | `CompTIA-Network+` | Guía de estudio en progreso para la certificación N10-008. |
-| `▶️` | `(Próximamente)` | Security+, CySA+, etc. |
-| `📁 02-Labs-WriteUps` | **Experiencia Práctica:** La parte más importante de tu portafolio. |
-| `▶️` | `TryHackMe` | Mis soluciones y explicaciones de *rooms* populares. |
-| `▶️` | `HackTheBox` | *Write-ups* de máquinas y desafíos. |
-| `▶️` | `Laboratorios-Propios` | Escenarios de *pentesting* y *forense* en mi propio *homelab*. |
-| `📁 03-Herramientas, Blogs, Recursos.` | **Material Complementario:** Apuntes de mi carrera y cursos adicionales. |
-| `▶️` | `Biblioteca de herramientas` | Links de herramientas relevantes de la comunidad. |
-| `▶️` | `Comunidades` | Las mejores comunidades conocidas de ciberseguridad. |
-
----
-
-## 🚀 ¿Cómo usar este repositorio para tu carrera? (El Camino)
-
-Si eres nuevo, este es el orden recomendado.
-
-### Paso 1: Domina los Fundamentos (La Base)
-No te saltes esto. Es tentador ir directo a "hackear", pero los mejores profesionales (tanto Red Team como Blue Team) son maestros de los fundamentos.
-
-> ➡️ **Acción:** Sumérgete en la carpeta `📁 00-Fundamentos`. Asegúrate de entender el Modelo OSI, cómo funciona el enrutamiento y cómo moverte con soltura en una terminal de Linux.
-
-### Paso 2: Elige un Camino (Pero entiende los demás)
-La ciberseguridad se divide en tres grandes áreas. Todo el material aquí te ayudará a decidir cuál te gusta más.
-
-* **🛡️ Blue Team (Defensa):** El escudo. Analistas SOC, Respuesta a Incidentes, Forense, Threat Hunting. Son los que construyen, monitorean y defienden los sistemas.
-* **⚔️ Red Team (Ofensa):** La espada. *Pentesters* y *Ethical Hackers*. Emulan a los atacantes para encontrar vulnerabilidades antes de que lo hagan los malos.
-* **⚖️ GRC (Gobernanza, Riesgo y Cumplimiento):** Las reglas. Auditores y analistas de riesgo. Se aseguran de que la organización cumpla con las leyes y gestione el riesgo de forma inteligente.
-
-### Paso 3: Estudia para un Objetivo (Certifícate)
-Las certificaciones *entry-level* son la mejor manera de estructurar tu aprendizaje y demostrar a RRHH que tienes los conocimientos validados.
-
-> ➡️ **Acción:** Ve a `📁 01-Guias-Certificacion`. Comienza con la guía de **(ISC)2 CC** o la de **CompTIA Network+**. Están diseñadas para ser tu única fuente de estudio.
-
-### Paso 4: ¡Practica, Falla, Documenta y Repite! (La Experiencia)
-¿El eterno problema de "se necesita experiencia para tener experiencia"? **Se resuelve aquí.**
-
-> ➡️ **Acción:** Ve a `📁 02-Labs-WriteUps`. No te limites a *leer* mis *write-ups*. Intenta hacer el laboratorio tú mismo. ¿Te atascaste? Consulta mi guía. Luego, **¡haz tu propio *write-up*!** Sube tus laboratorios a tu propio GitHub.
-
----
-
 ## 💡 Consejos Clave:
 
 * **🇬🇧 El Inglés es tu Multiplicador:** Es **extremadamente importante**. Los mejores recursos, la documentación y los salarios más altos están en inglés. El material aquí te ayudará a iniciarte si no entiendes mucho de ingles, es muy recomendable mientras usas el material de este repositorio estudiar inglés a la vez.
