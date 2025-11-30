@@ -1,12 +1,6 @@
-# Conceptos Básicos De Redes \
- \
-🌐Medios de Transmisión (Capa Física) \
+# Conceptos Básicos De Redes : 🌐Medios de Transmisión (Capa Física)
 
-
-## **🎯 Objetivo**
-
-Desmitificar y comprender en profundidad los **medios de red**. Entenderemos qué son, cómo se clasifican y los criterios físicos que permiten que un mensaje viaje desde un punto A (origen) hasta un punto B (destino).
-
+**🎯 Objetivo**: Desmitificar y comprender en profundidad los **medios de red**. Entenderemos qué son, cómo se clasifican y los criterios físicos que permiten que un mensaje viaje desde un punto A (origen) hasta un punto B (destino).
 
 ## **1. ¿Qué es un Medio de Red? 🛣️**
 
@@ -63,7 +57,9 @@ Este es el rey de las redes locales (LAN). Si miras detrás de tu PC o router ah
 
 - **Identificación:** Vienen codificados por colores. En cada par, hay un cable de color sólido (ej. Azul) y su compañero a rayas (Blanco con rayas Azules).
 
-![Enter image alt description](Images/LHg_Image_1.png)
+<img width="379" height="254" alt="image" src="https://github.com/user-attachments/assets/8ba3481a-eff6-4d99-acd2-11245d45cecd" />
+
+
 
 ### **B. Cable Coaxial 📺**
 
@@ -81,7 +77,7 @@ El veterano. Fue de los primeros en usarse en redes, pero hoy es más famoso por
 
 2. **Uso:** Transmisión de alta frecuencia (Banda ancha).
 
-![Enter image alt description](Images/5kQ_Image_2.png)
+<img width="308" height="141" alt="image" src="https://github.com/user-attachments/assets/f7053220-547e-4ff6-80ea-d5138927a1ea" />
 
 ### **C. Cable de Fibra Óptica ✨**
 
@@ -103,7 +99,8 @@ El Ferrari de los medios de red. No usa electrones, usa **fotones** (luz).
 
 - **Empresas y Data Centers:** Donde la velocidad es crítica.
 
-![Enter image alt description](Images/Ir5_Image_3.png)
+<img width="370" height="248" alt="image" src="https://github.com/user-attachments/assets/ad09aaff-7f98-4a6a-864d-cbc018cc39d3" />
+
 
 **🛡️ Nota de Seguridad:** La fibra es mucho más difícil de "pinchar" o interceptar que el cobre sin ser detectado. Si cortas la fibra para escuchar, la luz se corta y la conexión se cae, alertando a los administradores.
 
