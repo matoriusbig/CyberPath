@@ -49,7 +49,8 @@ No confundas esto con una mezcla de los dos anteriores. La malla inalámbrica es
 
 Esto crea redundancia. Si el celular falla, usas satélite. Si el satélite falla, usas microondas. Es vital para entornos hostiles.
 
-<img width="683" height="264" alt="image" src="https://github.com/user-attachments/assets/82b436e9-7039-4f6f-82e7-e453621dd71b" />
+<img width="907" height="636" alt="image" src="https://github.com/user-attachments/assets/213eb922-5cc4-4d9b-9ca3-ee95ce5e934a" />
+
 
 ---
 
