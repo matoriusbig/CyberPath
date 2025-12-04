@@ -1,4 +1,4 @@
-# Topologías Inalámbricas: El Mundo sin Cables 📡
+# 1.7 Topologías Inalámbricas: El Mundo sin Cables 📡
 
 > **🎯 Objetivo:** Aprenderás a "ver" lo invisible. Entenderás cómo se organizan los dispositivos cuando no hay cables que los unan, desde la red Wi-Fi de tu casa hasta sistemas complejos de rescate en zonas de desastre.
 

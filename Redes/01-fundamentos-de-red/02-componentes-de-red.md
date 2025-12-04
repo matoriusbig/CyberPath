@@ -1,4 +1,4 @@
-# 2 - Componentes de Red: El Elenco de la Obra Digital 🎭
+# 1.2 - Componentes de Red: El Elenco de la Obra Digital 🎭
 > **🎯 Objetivo:** Conocerás a los actores principales que hacen posible la magia de las redes. Desde los dispositivos que usas a diario hasta los guardianes invisibles que protegen tus datos, entenderás quién es quién y qué función vital desempeñan.
 
 ---

@@ -1,4 +1,4 @@
-# Recursos de Red: El Jefe vs. La Colmena 🌐
+# 1.3 - Recursos de Red: El Jefe vs. La Colmena 🌐
 
 > **🎯 Objetivo:** Entenderás cómo fluyen los datos y quién manda en una red. Al final de esta lección, sabrás distinguir perfectamente cuándo usar un modelo centralizado (Client-Server) y cuándo uno descentralizado (Peer-to-Peer), algo vital para diseñar redes seguras y eficientes.
 

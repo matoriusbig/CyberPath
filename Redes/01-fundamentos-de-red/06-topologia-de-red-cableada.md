@@ -1,4 +1,4 @@
-# Topologías de Red Cableada: El Mapa del Tesoro 🗺️
+# 1.6 Topologías de Red Cableada: El Mapa del Tesoro 🗺️
 
 > **🎯 Objetivo:** Aprenderás a diseñar el "esqueleto" de una red. Entenderás cómo la disposición física y lógica de los cables y dispositivos determina si tu red será robusta como un tanque o frágil como un castillo de naipes.
 

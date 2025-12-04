@@ -1,4 +1,4 @@
-# Geografía de Redes: De tu Bolsillo al Mundo 🌍
+# 1.4 Geografía de Redes: De tu Bolsillo al Mundo 🌍
 
 > **🎯 Objetivo:** Aprenderás a clasificar las redes según su tamaño y alcance geográfico. Entender esto es crucial no solo para el examen, sino para saber qué infraestructura necesitas diseñar según si conectas un reloj inteligente o una sucursal en otro país.
 

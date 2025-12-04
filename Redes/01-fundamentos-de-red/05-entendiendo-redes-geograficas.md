@@ -1,4 +1,4 @@
-# Geografía de Redes en la Vida Real: El Ejemplo del Auto 🚗
+# 1.5 Geografía de Redes en la Vida Real: El Ejemplo del Auto 🚗
 
 > **🎯 Objetivo:** Aterrizaremos los conceptos abstractos de PAN, LAN y WAN observando un solo objeto cotidiano: un automóvil moderno. Verás cómo estas tres geografías de red conviven simultáneamente en un espacio reducido.
 

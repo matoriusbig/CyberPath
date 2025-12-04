@@ -1,4 +1,4 @@
-# 1 - Fundamentos de Redes: Introducción🌐
+# 1.1 - Fundamentos de Redes: Introducción🌐
 > **🎯 Objetivo:** Comprenderás que una red es mucho más que un router parpadeando; es la infraestructura invisible que mantiene vivo al mundo moderno. Aprenderás el estándar de oro de la fiabilidad y por qué tu trabajo será vital para mantener el flujo de datos.
 
 ---

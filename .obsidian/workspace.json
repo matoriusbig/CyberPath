@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "58b87417ca66537b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ba60c740b9093e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7043badc8830d36b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes/00-redes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00-redes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a23a70f47422af58",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf0209163612444",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7eb49b2974913f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "546cb1692cdce305",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e175a97fb8319e45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46473a39a1f43882",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fb94c8cdea49ba5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df590194132d14ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a0ff19df6a088fb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "dbefef38f273ef57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7f374a8d7136a9de",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bb661796bce5445a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "7043badc8830d36b",
+  "lastOpenFiles": [
+    "Redes/00-redes.md",
+    "Sin título.base",
+    "Sin título.canvas",
+    "Write-Ups/HTB",
+    "Write-Ups",
+    "Ciberseguridad/05-operaciones-de-seguridad/04-gestion-configuracion-hardening.md",
+    "Ciberseguridad/05-operaciones-de-seguridad/05-gobernanza-y-politicas.md",
+    "Redes/01-fundamentos-de-red/07-topologia-de-red-inalambrica.md",
+    "Redes/01-fundamentos-de-red/06-topologia-de-red-cableada.md",
+    "Redes/01-fundamentos-de-red/05-entendiendo-redes-geograficas.md",
+    "Redes/01-fundamentos-de-red/04-geografia-de-la-red.md",
+    "Redes/01-fundamentos-de-red/03-recursos-de-red.md",
+    "Redes/01-fundamentos-de-red/01-fundamentos-redes.md",
+    "Redes/01-fundamentos-de-red/02-componentes-de-red.md",
+    "Ciberseguridad/02-respuesta-a-incidentes/03-respuesta-incidentes.md",
+    "Ciberseguridad/02-respuesta-a-incidentes/02-recuperacion-desastres.md",
+    "Ciberseguridad/02-respuesta-a-incidentes/01-continuidad-negocio.md",
+    "Ciberseguridad/01-principios-de-seguridad/05-codigo-etica.md",
+    "Ciberseguridad/01-principios-de-seguridad/04-gobernanza-seguridad.md",
+    "Ciberseguridad/01-principios-de-seguridad/03-controles-de-seguridad.md",
+    "Ciberseguridad/01-principios-de-seguridad/02-gestion-riesgos.md",
+    "Ciberseguridad/01-principios-de-seguridad/01-conceptos-de-seguridad.md",
+    "Linux/01-Introducción-a-Linux.md"
+  ]
+}
