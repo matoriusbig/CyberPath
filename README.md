@@ -1,4 +1,4 @@
-# 📚 💀 CIBER-PATH
+# 📚 💀 SECURITY-PATH
 **Bienvenido. Has encontrado el mapa del tesoro para tu carrera en ciberseguridad.**
 
 <p align="center">
