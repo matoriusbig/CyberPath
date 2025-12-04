@@ -35,29 +35,14 @@ Antes de intentar hackear la NASA necesitas entender cómo funcionan las cosas. 
 
 Para iniciar, céntrate en estos 4 fundamentos que encontrarás desglosados en este repositorio:
 
-1.  **🌐 Redes (Networking):** Es la carretera por donde viajan los datos. Aprenderás cómo se conectan los ordenadores, qué es una IP y cómo funciona internet.
-2.  **🐧 Linux:** Es el sistema operativo del 90% de los servidores del mundo y la herramienta principal del hacker. Aprenderás a perderle el miedo a la pantalla negra (terminal).
-3.  **💻 Programación (Scripting):** No necesitas ser un desarrollador de software, pero sí necesitas saber leer código y automatizar tareas básicas (Python y Bash son tus amigos).
-4.  **🛡️ Conceptos de Seguridad:** La teoría detrás de la defensa: confidencialidad, integridad, gestión de riesgos y tipos de ataques.
+1.  **🛡️ Conceptos de Seguridad:** La teoría detrás de la defensa: confidencialidad, integridad, gestión de riesgos y tipos de ataques.
+2.  **🌐 Redes (Networking):** Es la carretera por donde viajan los datos. Aprenderás cómo se conectan los ordenadores, qué es una IP y cómo funciona internet.
+3.  **🐧 Linux:** Es el sistema operativo del 90% de los servidores del mundo y la herramienta principal del hacker. Aprenderás a perderle el miedo a la pantalla negra (terminal).
+4.  **💻 Programación (Scripting):** No necesitas ser un desarrollador de software, pero sí necesitas saber leer código y automatizar tareas básicas (Python y Bash son tus amigos).
 
-## 🗺️ Tu Hoja de Ruta Sugerida (Roadmap)
+> * **💡Nota:** Recomiendo seguir el orden de 1 al 4 para comenzar a estudiar si estas desde 0.
 
-Si no sabes en qué orden estudiar, te recomiendo seguir este camino lógico diseñado para ir de "menos a más" dificultad:
-
-### 1. 🎓 Certificado de Ciberseguridad de Google (Coursera)
-* **¿Por qué primero?** Es muy amigable, práctico y toca un poco de todo (Linux, SQL, Python, Redes). Te dará una visión general perfecta para saber si esto te gusta.
-
-### 2. 🎖️ ISC2 Certified in Cybersecurity (CC)
-* **¿Por qué segundo?** Es una certificación oficial de una de las organizaciones más prestigiosas (ISC2). A menudo ofrecen el examen y curso gratis. Es perfecta para tener tu primera victoria rápida y poner una sigla oficial en tu CV.
-
-### 3. 🔌 CompTIA Network+
-* **¿Por qué tercero?** Aquí es donde muchos fallan. Saltan directo a la seguridad sin entender las redes. Esta certificación te dará una base técnica sólida y profunda sobre cómo se mueven los datos. Si dominas las redes, la seguridad es mucho más fácil.
-
-### 4. 🔐 CompTIA Security+
-* **¿Por qué cuarto?** Es el **estándar de oro** para el primer empleo. La mayoría de ofertas de trabajo para "Junior" piden esta certificación. Con la base de las tres anteriores, esta se te hará mucho más llevadera.
-
-
-## 💡 Consejos
+## 🧠 Consejos
 
 * **🇬🇧 El Inglés es tu Multiplicador:** Es **extremadamente importante**. Los mejores recursos, la documentación y los salarios más altos están en inglés. El material aquí te ayudará a iniciarte si no entiendes mucho de ingles, es muy recomendable mientras usas el material de este repositorio estudiar inglés a la vez.
 * **🧑‍🤝‍🧑 El *Networking* es un MUST:** Únete a comunidades (Reddit, Discord, LinkedIn). Es probable que tu primer trabajo venga de una recomendación, no dudes en contactarme si estas comenzando, será un gusto conocerte para mi!.
@@ -72,9 +57,9 @@ Este campo requiere **aprendizaje constante**. Puede ser frustrante, pero la pas
 
 --- 
 
-## 🧭 Material De Estudio
+## 🧭 Certificaciones
 
-Cada es una colección de material de estudio **(tipo curso)** detalladas con todo lo necesario para aprobar las certicaciones!
+Cada es una colección de material de estudio **(tipo curso)** detalladas con todo lo necesario para aprobar la certicación señalada!
 
 ### 🔒Teoría de Ciberseguridad:
  
